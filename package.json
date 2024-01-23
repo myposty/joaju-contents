@@ -1,0 +1,10 @@
+{
+    "name": "joaju",
+    "version": "1.0.0",
+    "description": "Descripción de mi proyecto",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/myposty/joaju-contents.git"
+    }
+  }
+  
