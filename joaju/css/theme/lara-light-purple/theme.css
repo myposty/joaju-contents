@@ -1,4 +1,4 @@
-@import url('./assets/css/chat-light.css');
+@import url('/assets/css/chat-light.css');
 :root {
   --surface-a: #ffffff;
   --surface-b: #f8f9fa;

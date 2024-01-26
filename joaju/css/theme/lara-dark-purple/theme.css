@@ -1,4 +1,4 @@
-@import url('./assets/css/chat-dark.css');
+@import url('/assets/css/chat-dark.css');
 :root {
   --message-in-dark: #202c33;
   --message-template-dark: #024955;
